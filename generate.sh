@@ -136,13 +136,13 @@ user_input() {
         fi
     else
         key_size='2048'
-        country_code='US'
-        state='California'
-        city='Mountain View'
-        org='Android'
-        ou='Android'
-        cn='Android'
-        email='android@android.com'
+        country_code='IN'
+        state='Maharashtra'
+        city='Pune'
+        org='Infinity'
+        ou='Infinity'
+        cn='Infinity'
+        email='balsarafrohan627@gmail.com'
     fi
 
     subject="/C=$country_code/ST=$state/L=$city/O=$org/OU=$ou/CN=$cn/emailAddress=$email"
